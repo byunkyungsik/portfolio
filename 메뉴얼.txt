@@ -1,1 +1,5 @@
-바로위에 파일 원시보기 클릭 또는 다운로드 클릭
+https://github.com/byunkyungsik/portfolio
+
+(주)알터 프로젝트 - 웹개발,자기소개... 클릭후 
+1. view raw 클릭 또는
+2. 오른쪽 상단 다운로드 클릭
